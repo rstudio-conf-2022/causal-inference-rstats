@@ -1,4 +1,6 @@
-Causal Inference in R
+Lucy D’Agostino McGowan is an assistant professor in the Mathematics and Statistics Department at Wake Forest University. She received her PhD in Biostatistics from Vanderbilt University and completed her postdoctoral training at Johns Hopkins University Bloomberg School of Public Health. Her research focuses on statistical communication, causal inference, data science pedagogy, and human-data interaction. Dr. D’Agostino McGowan is the past chair of the American Statistical Association’s Committee on Women in Statistics, chair elect for the Section on Statistical Graphics, and can be found blogging at livefreeordichotomize.com, on Twitter @LucyStats, and podcasting on the American Journal of Epidemiology partner podcast, Casual Inference.
+
+Malcolm Barrett is a data scientist and an epidemiologist. During his Ph.D., he studied vision loss, focusing on epidemiologic methods. He's since worked in the private sector, including Teladoc Health and Apple. Malcolm is also the author of several causal inference-focused R packages, such as ggdag and tidysmd. He regularly contributes to other open source software, including favorite community projects like usethis, ggplot2, R Markdown.ausal Inference in R
 ================
 
 ### rstudio::conf 2022
