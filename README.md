@@ -35,7 +35,11 @@ LEARNING_OBJECTIVES
 
 ## Is this course for me?
 
-THREE_QUESTIONS
+This course will be appropriate for you if you answer yes to these questions:
+
+- Do you know how to fit a linear regression model in R?
+- Do you have a basic understanding of data manipulation and visualization using tidyverse tools?
+- Are you interested in understanding the fundamentals behind how to move from estimating correlations to causal relationships?
 
 ## Prework
 
