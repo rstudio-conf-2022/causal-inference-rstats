@@ -3,7 +3,7 @@ Causal Inference in R
 
 ### rstudio::conf 2022
 
-by INSTRUCTOR_NAME
+by Lucy D'Agostino McGowan + Malcolm Barrett
 
 -----
 
