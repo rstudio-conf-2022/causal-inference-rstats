@@ -31,7 +31,7 @@ In both data science and academic research, prediction modeling is often not eno
 
 ## Learning objectives
 
-LEARNING_OBJECTIVES
+[ADD AN ITEMIZED LIST OF LEARNING OBJECTIVES.]
 
 ## Is this course for me?
 
