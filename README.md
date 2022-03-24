@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Causal Inference in R
 ================
 
 ### rstudio::conf 2022
