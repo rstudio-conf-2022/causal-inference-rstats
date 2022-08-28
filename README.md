@@ -1,6 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+# Visit the main workshop repository
+
+This repo is a snapshot in time of the workshop delivered at
+rstudio::conf(2022). [Visit the workshop’s main repo for the latest
+version of the
+material](https://github.com/malcolmbarrett/causal_inference_r_workshop).
+
 ## Causal Inference in R Workshop
 
 :spiral_calendar: July 25 and 26, 2022  
